@@ -34,6 +34,10 @@
   display: inline;
   padding-left: 20px;
 }
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
 .post-container {
   max-width: 1000px;
   margin: 0 auto;
